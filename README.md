@@ -1,6 +1,7 @@
 # OpenCart Manual Testing Project
 This repository contains a manual testing project focused on testing the functionality and usability of an online shopping website called OpenCart. The project aims to ensure that the website performs as expected, meets the specified requirements, and provides a seamless shopping experience for users.
 
+![Screenshot 2023-06-16 201124](https://github.com/Mayankgupta1803/OpenCart_Manual_Testing_Project/assets/121190072/9c147a92-ba40-45d9-89a7-347bd48790ec)
 ## Project Overview
 The manual testing project for OpenCart involves thoroughly testing various aspects of the website, including its user interface, navigation, product listing, cart management, checkout process, user registration, and any other features relevant to the online shopping experience. The goal is to identify bugs, usability issues, and potential improvements to enhance the website's performance and user satisfaction.
 
